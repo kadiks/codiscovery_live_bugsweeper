@@ -1,0 +1,31 @@
+:root {
+  --color-blue: #39b1c6;
+  --color-dblue: #277986;
+  --color-lblue: #f0f9ee;
+  --color-white: #ffffff;
+  --color-bug: #e04949;
+
+  --font-title: Montserrat, sans-serif;
+  --font-body: Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.cell-num-1 {
+  color: blue;
+}
+.cell-num-2 {
+  color: green;
+}
+.cell-num-3 {
+  color: red;
+}
+.cell-num-4 {
+  color: navy;
+}
+.cell-num-5 {
+  color: maroon;
+}
